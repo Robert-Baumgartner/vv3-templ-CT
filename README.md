@@ -1,6 +1,12 @@
-# vv3-template-CB
+# vv3-template-CT
 
 This template should help get you started developing with Vue 3 in Vite.
+It uses Composition API, Tailwind and FontAwesome.
+
+Usage:
+```
+npx degit robert-baumgartner/vv3-template-CT your-project
+``
 
 ## Recommended IDE Setup
 
