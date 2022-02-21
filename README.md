@@ -6,7 +6,7 @@ It uses Composition API, Tailwind and FontAwesome.
 Usage:
 ```
 npx degit robert-baumgartner/vv3-template-CT your-project
-``
+```
 
 ## Recommended IDE Setup
 
